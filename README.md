@@ -3,7 +3,7 @@
   <a href="https://open.spotify.com/user/1ec4p77zf7txfubo820h3bujz">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://steamcommunity.com/id/ieuxars">
+  <a href="https://steamcommunity.com/id/pizzacanavari">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
