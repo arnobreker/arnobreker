@@ -5,7 +5,7 @@
   <a href="https://open.spotify.com/user/31dpeb3waobebs75aih2sfuq6vfa?si=tVL6TPPDQPiwVe5IB9Q3iw">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://steamcommunity.com/id/erhanzy">
+  <a href="https://steamcommunity.com/id/aedaredevil">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
