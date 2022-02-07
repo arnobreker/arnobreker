@@ -20,6 +20,6 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />                      
   </a>&nbsp;&nbsp;
   
-  <img src="https://lanyard-profile-readme.vercel.app/api/813927256183013376">
+ [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/813927256183013376?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
   
  
