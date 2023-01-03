@@ -2,14 +2,14 @@
 
 <p align='center'>
   
-  <a href="">
+  <a href="https://open.spotify.com/">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://steamcommunity.com/id/">
+  <a href="https://steamcommunity.com">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
-  <a href="https://www.instagram.com//">
+  <a href="https://www.instagram.com">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://discord.com/users/813927256183013376">
